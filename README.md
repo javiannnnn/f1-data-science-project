@@ -1,0 +1,1 @@
+this is an f1 data science project to perform regression on race outcomes
