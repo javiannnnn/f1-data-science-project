@@ -1,1 +1,1 @@
-this is an f1 data science project to perform regression on race outcomes
+this is an f1 data science project to perform regression on race outcomes, as well as a reinforcement learning layer on top to give in race decisions to team decision makers.
